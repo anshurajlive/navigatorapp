@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist\\LeChalApp",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
+//@import './app/styles/tickets.scss';
+// .p-dialog .p-dialog-header{
+//     display: none !important;
+//   }
+
+  .p-card .p-card-body{
+      padding : 0px !important;
+  }
+
+  .sidepanelcard{
+    margin-bottom:10px;
+    padding : 10px;
+  }
